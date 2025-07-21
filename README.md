@@ -1,12 +1,10 @@
+# Password Generator
 
-# Number Guessing Game
+This is a simple password generator that creates a random password of a specified length.
 
-This is a simple number guessing game where the user has to guess a number between 1 and 100.
+## How to use
 
-## How to play
-
-1. Run the `number_guessing_game.py` file.
-2. The program will generate a random number between 1 and 100.
-3. You have to guess the number.
-4. The program will tell you if your guess is too high or too low.
-5. Keep guessing until you guess the correct number.
+1. Run the `password_generator.py` file.
+2. Enter the desired length of the password.
+3. The program will generate a random password with a mix of letters, numbers, and symbols.
+4. You can generate another password or quit the program.
