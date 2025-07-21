@@ -81,3 +81,12 @@ This repository contains a collection of simple Python projects suitable for beg
   1. Run `python digital_clock.py`
   2. A window will appear displaying the current time.
   3. Close the window to exit the clock.
+
+### 10. Tic Tac Toe
+- **File:** `tic_tac_toe.py`
+- **Description:** A classic Tic Tac Toe game for two players.
+- **How to play:**
+  1. Run `python tic_tac_toe.py`
+  2. Players take turns entering row and column numbers (0-2) to place their mark.
+  3. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins.
+  4. If all 9 squares are filled and no player has won, the game is a draw.
