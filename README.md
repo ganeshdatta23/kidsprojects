@@ -54,7 +54,7 @@ This repository contains a collection of simple Python projects suitable for beg
 - **How to use:**
   1. Run `python password_generator.py`
   2. Enter the desired length for your password.
-  3. A random password containing letters, numbers, and symbols will be displayed.
+  3. A random password containing letters, numbers and symbols will be displayed.
   4. Enter '0' to quit.
 
 ### 7. Interactive Quiz
@@ -180,3 +180,11 @@ This repository contains a collection of simple Python projects suitable for beg
   2. Choose to view all flashcards, practice them, or add new ones.
   3. Follow the prompts to interact with the flashcards.
   4. Type '4' to exit.
+
+### 21. Simple Chatbot
+- **File:** `simple_chatbot.py`
+- **Description:** A basic command-line chatbot that responds to simple greetings and questions.
+- **How to use:**
+  1. Run `python simple_chatbot.py`
+  2. Type your messages and the chatbot will respond.
+  3. Type 'bye' to exit the chatbot.
