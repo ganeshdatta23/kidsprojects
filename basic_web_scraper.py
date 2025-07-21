@@ -1,3 +1,4 @@
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -29,3 +30,4 @@ def basic_web_scraper():
 
 if __name__ == "__main__":
     basic_web_scraper()
+

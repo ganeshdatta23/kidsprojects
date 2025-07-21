@@ -221,3 +221,46 @@ This repository contains a collection of simple Python projects suitable for beg
   1. Run `python simple_blog.py`
   2. Choose to create a new post or view existing posts.
   3. Type '3' to exit.
+
+### 26. Personal Diary
+- **File:** `personal_diary.py`
+- **Description:** A command-line personal diary where you can add and view entries.
+- **How to use:**
+  1. Run `python personal_diary.py`
+  2. Choose to add a new entry or view all entries.
+  3. Type '3' to exit.
+
+### 27. Recipe App
+- **File:** `recipe_app.py`
+- **Description:** A simple application to store and view your favorite recipes.
+- **How to use:**
+  1. Run `python recipe_app.py`
+  2. Choose to add a new recipe, view all recipes, or view a specific recipe.
+  3. Type '4' to exit.
+
+### 28. Simple Paint Program
+- **File:** `simple_paint_program.py`
+- **Description:** A basic drawing application with different colors and a clear function.
+- **How to use:**
+  1. Run `python simple_paint_program.py`
+  2. Click and drag your mouse on the canvas to draw.
+  3. Select different colors from the color palette.
+  4. Click 'Clear' to clear the canvas.
+
+### 29. Basic Web Scraper
+- **File:** `basic_web_scraper.py`
+- **Description:** A simple web scraper that fetches content from a given URL and extracts paragraphs and links.
+- **How to use:**
+  1. **Important:** You might need to install the `requests` and `beautifulsoup4` libraries: `pip install requests beautifulsoup4`
+  2. Run `python basic_web_scraper.py`
+  3. Enter the URL you want to scrape when prompted.
+  4. The program will display the extracted paragraphs and links.
+
+### 30. Simple Game using Pygame
+- **File:** `simple_pygame_game.py`
+- **Description:** A very basic game demonstrating Pygame functionalities, where you control a red square.
+- **How to play:**
+  1. **Important:** You need to install Pygame: `pip install pygame`
+  2. Run `python simple_pygame_game.py`
+  3. Use the arrow keys to move the red square around the window.
+  4. Close the game window to exit.
