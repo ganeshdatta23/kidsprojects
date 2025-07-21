@@ -188,3 +188,12 @@ This repository contains a collection of simple Python projects suitable for beg
   1. Run `python simple_chatbot.py`
   2. Type your messages and the chatbot will respond.
   3. Type 'bye' to exit the chatbot.
+
+### 22. Hangman Game
+- **File:** `hangman_game.py`
+- **Description:** A classic word-guessing game where you try to guess a hidden word letter by letter.
+- **How to play:**
+  1. Run `python hangman_game.py`
+  2. Guess one letter at a time.
+  3. You have a limited number of incorrect guesses before the game ends.
+  4. Try to guess the word before you run out of attempts.
