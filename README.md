@@ -1,12 +1,14 @@
+# Rock Paper Scissors Game
 
-# Number Guessing Game
-
-This is a simple number guessing game where the user has to guess a number between 1 and 100.
+This is a simple Rock Paper Scissors game where the user plays against the computer.
 
 ## How to play
 
-1. Run the `number_guessing_game.py` file.
-2. The program will generate a random number between 1 and 100.
-3. You have to guess the number.
-4. The program will tell you if your guess is too high or too low.
-5. Keep guessing until you guess the correct number.
+1. Run the `rock_paper_scissors_game.py` file.
+2. Choose rock, paper, or scissors.
+3. The computer will also make a choice.
+4. The winner is determined by the standard rules:
+   - Rock beats scissors
+   - Scissors beats paper
+   - Paper beats rock
+5. You can play as many times as you want. Type 'quit' to exit.
