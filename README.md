@@ -197,3 +197,11 @@ This repository contains a collection of simple Python projects suitable for beg
   2. Guess one letter at a time.
   3. You have a limited number of incorrect guesses before the game ends.
   4. Try to guess the word before you run out of attempts.
+
+### 23. Pomodoro Timer
+- **File:** `pomodoro_timer.py`
+- **Description:** A productivity timer based on the Pomodoro Technique, alternating work and short breaks.
+- **How to use:**
+  1. Run `python pomodoro_timer.py`
+  2. Enter the work duration, break duration, and number of cycles.
+  3. The timer will guide you through the work and break periods.
