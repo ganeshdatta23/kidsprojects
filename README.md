@@ -73,3 +73,11 @@ This repository contains a collection of simple Python projects suitable for beg
   2. Press Enter to roll the die.
   3. The result of the roll will be displayed.
   4. You can choose to roll again or exit.
+
+### 9. Digital Clock
+- **File:** `digital_clock.py`
+- **Description:** A simple digital clock that displays the current time in a GUI window.
+- **How to use:**
+  1. Run `python digital_clock.py`
+  2. A window will appear displaying the current time.
+  3. Close the window to exit the clock.
