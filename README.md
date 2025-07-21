@@ -171,3 +171,12 @@ This repository contains a collection of simple Python projects suitable for beg
   3. Enter the value to convert.
   4. The converted value will be displayed.
   5. Type '5' to exit.
+
+### 20. Flashcard App
+- **File:** `flashcard_app.py`
+- **Description:** A simple flashcard application to help you learn and practice terms and definitions.
+- **How to use:**
+  1. Run `python flashcard_app.py`
+  2. Choose to view all flashcards, practice them, or add new ones.
+  3. Follow the prompts to interact with the flashcards.
+  4. Type '4' to exit.
