@@ -144,3 +144,11 @@ This repository contains a collection of simple Python projects suitable for beg
   2. Enter a word or phrase.
   3. The program will tell you if it's a palindrome or not.
   4. Type 'quit' to exit.
+
+### 17. Simple To-Do List
+- **File:** `simple_to_do_list.py`
+- **Description:** A command-line application to manage your daily tasks.
+- **How to use:**
+  1. Run `python simple_to_do_list.py`
+  2. Follow the on-screen menu to add, view, mark as complete, or delete tasks.
+  3. Type '5' to exit the application.
