@@ -205,3 +205,19 @@ This repository contains a collection of simple Python projects suitable for beg
   1. Run `python pomodoro_timer.py`
   2. Enter the work duration, break duration, and number of cycles.
   3. The timer will guide you through the work and break periods.
+
+### 24. Expense Tracker
+- **File:** `expense_tracker.py`
+- **Description:** A simple command-line tool to track your expenses.
+- **How to use:**
+  1. Run `python expense_tracker.py`
+  2. Follow the on-screen menu to add expenses, view them, or get the total.
+  3. Type '4' to exit.
+
+### 25. Simple Blog
+- **File:** `simple_blog.py`
+- **Description:** A basic command-line blog application where you can create and view posts.
+- **How to use:**
+  1. Run `python simple_blog.py`
+  2. Choose to create a new post or view existing posts.
+  3. Type '3' to exit.

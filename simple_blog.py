@@ -1,5 +1,3 @@
-
-
 import datetime
 
 def simple_blog():
@@ -41,4 +39,3 @@ def simple_blog():
 
 if __name__ == "__main__":
     simple_blog()
-
