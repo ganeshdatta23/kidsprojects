@@ -107,3 +107,13 @@ This repository contains a collection of simple Python projects suitable for beg
   2. Run `python currency_converter.py`
   3. Enter the source currency, target currency, and the amount to convert.
   4. The converted amount will be displayed.
+
+### 13. Weather App
+- **File:** `weather_app.py`
+- **Description:** Fetches and displays current weather information for a specified city using the OpenWeatherMap API.
+- **How to use:**
+  1. **Important:** Obtain an API key from [OpenWeatherMap](https://openweathermap.org/api) and replace `"YOUR_OPENWEATHERMAP_API_KEY"` in `weather_app.py` with your actual key.
+  2. Run `python weather_app.py`
+  3. Enter the city name when prompted.
+  4. The current weather conditions for that city will be displayed.
+  5. Type 'quit' to exit.
