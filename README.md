@@ -98,3 +98,12 @@ This repository contains a collection of simple Python projects suitable for beg
   1. Run `python countdown_timer.py`
   2. Enter the number of minutes for the countdown.
   3. The timer will display the remaining time and count down to zero.
+
+### 12. Currency Converter
+- **File:** `currency_converter.py`
+- **Description:** Converts an amount from one currency to another using an external API.
+- **How to use:**
+  1. **Important:** Obtain an API key from [ExchangeRate-API.com](https://www.exchangerate-api.com/) and replace `"YOUR_API_KEY"` in `currency_converter.py` with your actual key.
+  2. Run `python currency_converter.py`
+  3. Enter the source currency, target currency, and the amount to convert.
+  4. The converted amount will be displayed.
