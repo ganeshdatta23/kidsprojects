@@ -152,3 +152,22 @@ This repository contains a collection of simple Python projects suitable for beg
   1. Run `python simple_to_do_list.py`
   2. Follow the on-screen menu to add, view, mark as complete, or delete tasks.
   3. Type '5' to exit the application.
+
+### 18. BMI Calculator
+- **File:** `bmi_calculator.py`
+- **Description:** Calculates your Body Mass Index (BMI) based on your weight and height.
+- **How to use:**
+  1. Run `python bmi_calculator.py`
+  2. Enter your weight in kilograms and height in meters.
+  3. Your BMI and a corresponding status (e.g., Underweight, Normal) will be displayed.
+  4. Enter '0' for weight to quit.
+
+### 19. Unit Converter
+- **File:** `unit_converter.py`
+- **Description:** Converts between different units of measurement (e.g., kilometers to miles, Celsius to Fahrenheit).
+- **How to use:**
+  1. Run `python unit_converter.py`
+  2. Select the type of conversion you want to perform.
+  3. Enter the value to convert.
+  4. The converted value will be displayed.
+  5. Type '5' to exit.
