@@ -90,3 +90,11 @@ This repository contains a collection of simple Python projects suitable for beg
   2. Players take turns entering row and column numbers (0-2) to place their mark.
   3. The first player to get three of their marks in a row (horizontally, vertically, or diagonally) wins.
   4. If all 9 squares are filled and no player has won, the game is a draw.
+
+### 11. Countdown Timer
+- **File:** `countdown_timer.py`
+- **Description:** A command-line countdown timer that takes minutes as input.
+- **How to use:**
+  1. Run `python countdown_timer.py`
+  2. Enter the number of minutes for the countdown.
+  3. The timer will display the remaining time and count down to zero.
