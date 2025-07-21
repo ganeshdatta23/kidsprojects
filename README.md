@@ -64,3 +64,12 @@ This repository contains a collection of simple Python projects suitable for beg
   1. Run `python interactive_quiz.py`
   2. Answer each question when prompted.
   3. Your final score will be displayed at the end.
+
+### 8. Dice Roller
+- **File:** `dice_roller.py`
+- **Description:** A simple program that simulates rolling a six-sided die.
+- **How to play:**
+  1. Run `python dice_roller.py`
+  2. Press Enter to roll the die.
+  3. The result of the roll will be displayed.
+  4. You can choose to roll again or exit.
