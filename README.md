@@ -117,3 +117,12 @@ This repository contains a collection of simple Python projects suitable for beg
   3. Enter the city name when prompted.
   4. The current weather conditions for that city will be displayed.
   5. Type 'quit' to exit.
+
+### 14. Magic 8 Ball
+- **File:** `magic_8_ball.py`
+- **Description:** A classic Magic 8 Ball simulator that provides answers to yes/no questions.
+- **How to play:**
+  1. Run `python magic_8_ball.py`
+  2. Ask a yes/no question.
+  3. The Magic 8 Ball will provide a random answer.
+  4. Type 'quit' to exit.
