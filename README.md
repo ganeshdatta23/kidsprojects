@@ -135,3 +135,12 @@ This repository contains a collection of simple Python projects suitable for beg
   2. Enter a whole number.
   3. The program will tell you if the number is odd or even.
   4. Enter '0' to quit.
+
+### 16. Palindrome Checker
+- **File:** `palindrome_checker.py`
+- **Description:** Checks if a given word or phrase is a palindrome (reads the same forwards and backward).
+- **How to use:**
+  1. Run `python palindrome_checker.py`
+  2. Enter a word or phrase.
+  3. The program will tell you if it's a palindrome or not.
+  4. Type 'quit' to exit.
