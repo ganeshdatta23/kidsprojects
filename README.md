@@ -126,3 +126,12 @@ This repository contains a collection of simple Python projects suitable for beg
   2. Ask a yes/no question.
   3. The Magic 8 Ball will provide a random answer.
   4. Type 'quit' to exit.
+
+### 15. Odd or Even Game
+- **File:** `odd_or_even_game.py`
+- **Description:** Determines if a given number is odd or even.
+- **How to play:**
+  1. Run `python odd_or_even_game.py`
+  2. Enter a whole number.
+  3. The program will tell you if the number is odd or even.
+  4. Enter '0' to quit.
